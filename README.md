@@ -4,7 +4,7 @@
 
 #### Descripción del Proyecto:
 
-Este proyecto se centra en el diseño, construcción y control de brazos robóticos utilizando tecnología de impresión 3D, potenciómetros y servomotores. La combinación de estas tecnologías permite una experiencia interactiva y educativa en el campo de la robótica, donde se puede ver (a pequeña escala), la mecánica, la electrónica y la programación involucradas en la creación y operación de sistemas robóticos.
+- Este proyecto se centra en el diseño, construcción y control de brazos robóticos utilizando tecnología de impresión 3D, potenciómetros y servomotores. La combinación de estas tecnologías permite una experiencia interactiva y educativa en el campo de la robótica, donde se puede ver (a pequeña escala), la mecánica, la electrónica y la programación involucradas en la creación y operación de sistemas robóticos.
 
 #### Objetivos:
 
@@ -19,7 +19,7 @@ Este proyecto se centra en el diseño, construcción y control de brazos robóti
 
 ##### El proyecto se desarrolla en varias etapas:
 
-1. **Diseño y Fabricación en 3D de los Brazos Robóticos:
+1. ** Diseño y Fabricación en 3D de los Brazos Robóticos:
 
     - Se diseñarán los brazos robóticos en software de modelado 3D, considerando la ergonomía y la funcionalidad de las articulaciones.
     - Se imprimirán las piezas utilizando tecnología de impresión 3D, optimizando la resistencia y el rendimiento de las articulaciones.
