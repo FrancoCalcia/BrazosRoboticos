@@ -1,4 +1,4 @@
-Este proyecto final fue diseñado y presentado para recibirme de Técnico Superior en Robótica. 
+## Este proyecto final fue diseñado y presentado para recibirme de Técnico Superior en Robótica. 
 
 ### Diseño y Control de Brazos Robóticos con Potenciómetros y Servomotores mediante Impresión 3D
 
