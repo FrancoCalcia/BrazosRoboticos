@@ -33,3 +33,5 @@
 
     - Se diseñará la GUI utilizando tkinter, presentando una representación visual del brazo robótico y las barras deslizadoras para controlar los servomotores.
     - Las funciones de control de los servomotores se enlazarán con la GUI, permitiendo ajustar las posiciones de las articulaciones de manera intuitiva.
+
+_Creado por [Franco Calcia]_
