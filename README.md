@@ -7,13 +7,9 @@
 - Este proyecto se centra en el diseño, construcción y control de brazos robóticos utilizando tecnología de impresión 3D, potenciómetros y servomotores. La combinación de estas tecnologías permite una experiencia interactiva y educativa en el campo de la robótica, donde se puede ver (a pequeña escala), la mecánica, la electrónica y la programación involucradas en la creación y operación de sistemas robóticos.
 
 #### Objetivos:
-
-- Diseño y Fabricación de Brazos Robóticos en 3D: El objetivo principal del proyecto es diseñar y fabricar los brazos robóticos utilizando tecnología de impresión 3D. Esta técnica permite una mayor flexibilidad en el diseño y la producción de piezas precisas y funcionales.
-
-#### Integración de Potenciómetros y Servomotores: 
-- Se busca incorporar potenciómetros como sensores de movimiento en un brazo robótico, y servomotores como actuadores en otro brazo. La interconexión de ambos brazos permitirá una experiencia de control inmersiva y didáctica.
-
-- Desarrollo de la Interfaz Gráfica de Usuario (GUI): Se creará una interfaz gráfica de usuario (GUI) que facilite el control de los servomotores. La GUI permitirá a los usuarios ajustar las posiciones de las articulaciones mediante barras deslizadoras.
+- Diseño y Fabricación de Brazos Robóticos con impresión 3D.
+- Integración de sensores y actuadores.
+- Desarrollo de Interfaz Gráfica de Usuario.
 
 #### Metodología:
 
@@ -32,6 +28,22 @@
 3. __Desarrollo de la Interfaz Gráfica de Usuario (GUI):__
 
     - Se diseñará la GUI utilizando tkinter, presentando una representación visual del brazo robótico y las barras deslizadoras para controlar los servomotores.
-    - Las funciones de control de los servomotores se enlazarán con la GUI, permitiendo ajustar las posiciones de las articulaciones de manera intuitiva.
+    - Las funciones de control de los servomotores se enlazarán con la GUI, permitiendo ajustar las posiciones de las articulaciones.
 
-_Creado por Franco Calcia_
+### Para probar el proyecto
+
+#### Control a través de Potenciómetros
+1. __Conecta los potenciómetros y los servomotores a los pines adecuados en la placa Arduino.__
+    - Carga el programa "Manejo2Brazos" en la placa Arduino utilizando el software Arduino. Cabe mencionar que utilice la placa Arduino UNO.
+
+2. __Prueba de Control:__
+    - Mueve el brazo con potenciómetros y observa cómo el brazo con servomotores replica los movimientos en tiempo real.
+
+#### Interfaz Gráfica de Usuario (GUI) con Python
+1. __Carga del Firmware y Configuración de la GUI:__
+    - Carga el firmware "StandardFirmata" en la placa Arduino utilizando el software Arduino.
+    - Ejecuta el código 'ControlDesdePython' en tu entorno de desarrollo Python.
+
+2. __Uso de la GUI:__
+    - La GUI mostrará barras deslizantes que representan las articulaciones del brazo robótico.
+    - Ajusta las barras deslizantes para cambiar las posiciones de las articulaciones y observa cómo el brazo responde en tiempo real.
