@@ -24,12 +24,12 @@
     - Se diseñarán los brazos robóticos en software de modelado 3D, considerando la ergonomía y la funcionalidad de las articulaciones.
     - Se imprimirán las piezas utilizando tecnología de impresión 3D, optimizando la resistencia y el rendimiento de las articulaciones.
 
-2. **Integración de Componentes Electrónicos y Mecánicos:
+2. ** Integración de Componentes Electrónicos y Mecánicos:
 
     - Se instalarán potenciómetros en el brazo que detectará los movimientos, y servomotores en el brazo que ejecutará los movimientos.
     - Se programará la comunicación entre ambos brazos para lograr la reproducción precisa de los movimientos.
 
-3. **Desarrollo de la Interfaz Gráfica de Usuario (GUI):
+3. ** Desarrollo de la Interfaz Gráfica de Usuario (GUI):
 
     - Se diseñará la GUI utilizando tkinter, presentando una representación visual del brazo robótico y las barras deslizadoras para controlar los servomotores.
     - Las funciones de control de los servomotores se enlazarán con la GUI, permitiendo ajustar las posiciones de las articulaciones de manera intuitiva.
